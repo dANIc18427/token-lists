@@ -1,0 +1,21 @@
+{
+ "name": "USDT Test List",
+ "timestamp": "2026-03-06T00:00:00+00:00",
+ "version": {
+   "major": 1,
+   "minor": 0,
+   "patch": 0
+ },
+ "tokens": [
+   {
+     "chainId": 11155111,
+     "address": "0x8a82C55d635AeC3c424ce6d58b87b4861439182D",
+     "name": "Tether USD",
+     "symbol": "USDT",
+     "decimals": 6,
+     "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+   }
+ ],
+ "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+ "keywords": ["usdt", "stablecoin", "test"]
+}
